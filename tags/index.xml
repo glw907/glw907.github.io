@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Geoff&#39;s Life</title>
-    <link>https://www.example.com/tags/</link>
+    <link>https://glw907.life/tags/</link>
     <description>Recent content in Tags on Geoff&#39;s Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019. All rights reserved.</copyright>
     
-	<atom:link href="https://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://glw907.life/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
