@@ -1,0 +1,8 @@
+/* My personal css lives here. My goal is to leave my theme css untouached as
+   much as possible. */
+
+/* Set default image handling for posts */
+img {
+  max-width: 100%;
+  height: auto;
+}
