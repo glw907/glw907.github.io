@@ -87,3 +87,12 @@ i {
 .pagination a {
   color: #265778;
 }
+
+.comment-count {
+  font-size: 90%;
+  padding-bottom: 20px;
+}
+
+h2.full-post {
+  margin-bottom: 3px;
+}
